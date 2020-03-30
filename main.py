@@ -4,7 +4,7 @@ from urllib.request import urlopen as uReq
 from urllib.request import Request
 
 
-api_key = 'amh8giT5uiMRuUSvvs6C4Tktyr_XQCOT6XK5qdV_pgShCuWX9N7O0GQXJe4fNXsq'
+api_key = 'put key here '
 
 
 def make_request(song, artist):
